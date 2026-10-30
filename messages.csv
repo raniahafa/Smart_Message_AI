@@ -1,0 +1,27 @@
+message,classe,longeur_message
+"Félicitations, vous avez gagné un cadeau",spam,40
+"Félicitations, vous avez gagné un cadeau",spam,40
+"Bonjour, notre réunion est demain",normal,33
+Gagnez de l'argent rapidement,spam,29
+Je vous envoie le document demandé,normal,34
+"Offre gratuite, cliquez ici",spam,27
+Peux-tu m'envoyer le cours de Python ?,normal,38
+URGENT : réclamez votre récompense maintenant,spam,45
+Le professeur a déplacé le contrôle à lundi,normal,43
+"Vous avez gagné un iPhone, cliquez ici",spam,38
+Merci pour ton aide pendant le projet,normal,37
+Recevez gratuitement votre cadeau,spam,33
+Je serai en retard de dix minutes,normal,33
+"Félicitations, votre compte a été sélectionné",spam,45
+Tu as terminé les exercices de Pandas ?,normal,39
+"Argent facile, profitez de cette offre",spam,38
+Le document est disponible sur la plateforme,normal,44
+URGENT : offre gratuite limitée dans le temps,spam,45
+Nous avons une réunion demain à 14h,normal,35
+Vous avez gagné un bon d'achat,spam,30
+Peux-tu vérifier mon code Python ?,normal,34
+"Félicitations, cliquez ici pour recevoir votre prix",spam,51
+Le cours commence à neuf heures,normal,31
+pas de valeur,normal,13
+"Offre spéciale, gagnez un cadeau gratuit",spam,40
+Je t'enverrai le fichier ce soir,,32
