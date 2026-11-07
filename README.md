@@ -52,10 +52,12 @@ SmartMessage_AI/
 ├── notebooks/
 │   ├── W01_python.ipynb
 │   ├── W02_pandas.ipynb
-│   └── W03_dataset_audit.ipynb
+│   ├── W03_dataset_audit.ipynb
+│   └── W04_eda.ipynb
 │
 ├── reports/
-│   └── dataset_profile.md
+│   ├── dataset_profile.md
+│   └── eda_conclusions.md
 │
 ├── messages.csv
 ├── README.md
@@ -65,7 +67,7 @@ SmartMessage_AI/
 
 ## Project Status
 
-This project is currently under development. Data exploration and preparation are being carried out before moving on to machine learning model development.
+This project is currently under development. The initial data exploration (EDA) has been completed. The next steps will focus on text preprocessing and machine learning model development.
 
 ## Author
 
